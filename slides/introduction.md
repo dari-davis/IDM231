@@ -14,7 +14,7 @@ theme: Cobalt2, 1
 
 [.build-lists: false]
 
-![left](images/avatar.jpg)
+![left](images/darielle.jpeg)
 
 ## About Me
 
@@ -166,7 +166,7 @@ theme: Cobalt2, 1
 [.hide-footer]
 [.slidenumbers: false]
 
-![fit](images/progressive-enhancement.png)
+![fit](images/progressive-enhancement.jpg)
 
 ^ Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.
 
