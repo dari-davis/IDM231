@@ -14,7 +14,7 @@ theme: Cobalt2, 1
 
 [.build-lists: false]
 
-![left](images/image.jpeg)
+![left]
 
 ## About Me
 
