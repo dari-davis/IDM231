@@ -2,18 +2,18 @@
 
 ## Lecture Slides
 
-- [Introduction](http://digm.drexel.edu/crs/IDM231/presentations/introduction.pdf)
-- [Variables](http://digm.drexel.edu/crs/IDM231/presentations/variables.pdf)
-- [Functions](http://digm.drexel.edu/crs/IDM231/presentations/functions.pdf),
-- [Objects](http://digm.drexel.edu/crs/IDM231/presentations/objects.pdf)
-- [Decisions](http://digm.drexel.edu/crs/IDM231/presentations/decisions.pdf)
-- [Loops](http://digm.drexel.edu/crs/IDM231/presentations/loops.pdf)
-- [Document Object Model (DOM)](http://digm.drexel.edu/crs/IDM231/presentations/document-object-model.pdf)
-- [Events](http://digm.drexel.edu/crs/IDM231/presentations/events.pdf)
-- [Web Storage](http://digm.drexel.edu/crs/IDM231/presentations/storage.pdf)
-- [Timers](http://digm.drexel.edu/crs/IDM231/presentations/timers.pdf)
-- [Asynchronous Functions](http://digm.drexel.edu/crs/IDM231/presentations/async.pdf)
-- [Working With JSON](http://digm.drexel.edu/crs/IDM231/presentations/json.pdf)
+- [Introduction](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/introduction.pdf)
+- [Variables](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/variables.pdf)
+- [Functions](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/functions.pdf),
+- [Objects](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/objects.pdf)
+- [Decisions](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/decisions.pdf)
+- [Loops](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/loops.pdf)
+- [Document Object Model (DOM)](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/document-object-model.pdf)
+- [Events](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/events.pdf)
+- [Web Storage](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/storage.pdf)
+- [Timers](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/timers.pdf)
+- [Asynchronous Functions](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/async.pdf)
+- [Working With JSON](https://learn.dcollege.net/bbcswebdav/courses/21681.202125/presentations/json.pdf)
 
 ## Additional Examples
 
