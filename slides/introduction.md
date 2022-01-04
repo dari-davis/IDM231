@@ -1,12 +1,12 @@
 build-lists: true
-footer: IDM 221: Web Authoring I
+footer: IDM 231: Scripting for IDM I
 slidenumbers: true
 autoscale: true
 theme: Cobalt2, 1
 
-# IDM 221
+# IDM 231
 
-## Web Design I
+## Scripting for Interactive Digital Media I
 
 ### Introduction
 
@@ -18,14 +18,14 @@ theme: Cobalt2, 1
 
 ## About Me
 
-- Name: Phil Sinatra
-- Email: ps42@drexel.edu
-- GitHub: [@philsinatra](https://github.com/philsinatra)
+- Name: Darielle Davis
+- Email: db447@drexel.edu
+- GitHub: [@dari-davis](https://github.com/dari-davis)
 
 ## About This Course
 
 - [Drexel Learn](https://learn.dcollege.net/webapps/login/)
-- [Course Repository](https://github.com/philsinatra/IDM231)
+- [Course Repository](https://github.com/dari-davis/IDM231)
 
 ^ All course information including syllabus, overview and assignments will be managed through Drexel's Blackboard (BBLearn) system. Let's log in and review the syllabus and course information now.
 
