@@ -50,8 +50,8 @@ $$
 ## Naming Rules: Variables
 
 1. Must begin with a letter, dollar sign ($), or an underscore ( \_ )
-1. Can not contain dashes or periods
-1. Can not use _keywords_ or _reserved_ words
+1. Cannot contain dashes or periods
+1. Cannot use _keywords_ or _reserved_ words
 1. Are case sensitive
 1. Should describe the info they will represent
 1. Should use _camelCase_ or _under\_scores_ for multi word variables
@@ -66,7 +66,7 @@ const one = 1;
 let two = 2;
 two = 'two';
 
-var three = 'III'
+var three = 'III';
 ```
 
 ^ A variable is a literal assigned to an identifier, so you can reference and use it later in the program. Variables do not have any type attached, so you can assign a variable to one type and then reassign it to another type without an error.
@@ -110,7 +110,7 @@ function hello() {
 ### `const`
 
 ```javascript
-const a = 'test'
+const a = 'test';
 ```
 
 ^ Variables declared with `var` or `let` can be changed later in the program, and reassigned. Once a `const` is initialized, its value can never be changed, and it can't be reassigned to a different value.
@@ -367,7 +367,7 @@ a || b
 const a = [];
 const a = [1,2,3];
 const Array.of(1,2,4);
-const Array(6).fill(1) // init an array of 6 items with value 1
+const Array(6).fill(1); // init an array of 6 items with value 1
 
 // old syntax (don't use)
 const a = new Array();
@@ -428,7 +428,7 @@ myArray.unshift(0);
 
 // Using ES6
 let arrayOne = ['1','2','3'];
-let arrayTwo = [...arrayOne, '4']
+let arrayTwo = [...arrayOne, '4'];
 ```
 
 ---
