@@ -28,12 +28,12 @@ theme: Cobalt2, 1
 ## Document Object Model (DOM)
 
 ```html
-<html>
-  <body>
-    <div id="page">
-      <hl id="header">List</hl>
-      <h2>Buy groceries</h2>
-      <ul>
+01 <html>
+02   <body>
+03    <div id="page">
+04      <hl id="header">List</hl>
+05      <h2>Buy groceries</h2>
+06      <ul>
         <li id="one" class="hot"><em>fresh</em> figs</li>
         <li id="two" class="hot">pine nuts</li>
         <li id="three" class="hot">honey</li>
